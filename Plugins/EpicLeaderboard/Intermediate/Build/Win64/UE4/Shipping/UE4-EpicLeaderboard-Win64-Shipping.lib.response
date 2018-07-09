@@ -1,0 +1,9 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/LTCG
+"C:\Users\myles\Documents\Unreal Projects\Baller\Plugins\EpicLeaderboard\Intermediate\Build\Win64\UE4\Shipping\EpicLeaderboard\Module.EpicLeaderboard.cpp.obj"
+"C:\Users\myles\Documents\Unreal Projects\Baller\Plugins\EpicLeaderboard\Intermediate\Build\Win64\UE4\Shipping\EpicLeaderboard\Module.EpicLeaderboard.gen.cpp.obj"
+"C:\Users\myles\Documents\Unreal Projects\Baller\Intermediate\Build\Win64\UE4\Shipping\EpicLeaderboard\PCLaunch.rc.res"
+/OUT:"C:\Users\myles\Documents\Unreal Projects\Baller\Plugins\EpicLeaderboard\Binaries\Win64\UE4-EpicLeaderboard-Win64-Shipping.lib"
